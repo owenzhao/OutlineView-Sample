@@ -22,11 +22,11 @@ That is because the document is outdated.
 
 The result will be look like this.
 
-![outline_view_in_view_controller](https://user-images.githubusercontent.com/2182896/111873727-bea8cf80-89cc-11eb-9c10-2c0219f6563d.png)
+![outline_view_in_view_controller](https://user-images.githubusercontent.com/2182896/111873727-bea8cf80-89cc-11eb-9c10-2c0219f6563d.png | width=474)
 
 Right click the storyboard and choose "Outline View". You will find the Outline View is View based.
 
-![outline_view_is_view_based_by_default](https://user-images.githubusercontent.com/2182896/111873730-c5cfdd80-89cc-11eb-9e82-eef198fea56f.png)
+![outline_view_is_view_based_by_default](https://user-images.githubusercontent.com/2182896/111873730-c5cfdd80-89cc-11eb-9e82-eef198fea56f.png | width=360)
 
 That is the reason why Apple's document doesn't work. You need to change View based to Cell based to make it work.
 
